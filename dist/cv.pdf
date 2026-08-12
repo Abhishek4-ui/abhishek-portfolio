@@ -1,74 +1,485 @@
-%PDF-1.3
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%PDF-1.4
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/Contents 8 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 7 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Annots [ 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R ]
+/Contents 10 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 11 0 R
+/F1-0 12 0 R
+/F2 13 0 R
+/F2-0 14 0 R
+/F3 15 0 R
+/F4 16 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/PageMode /UseNone /Pages 7 0 R /Type /Catalog
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057smartiq\055full\055stack\055project\055kvh9\056vercel\056app)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 85.03937 446.4567 110.5512 461.1969 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 6 0 obj
 <<
-/Author (anonymous) /CreationDate (D:20260809044127+00'00') /Creator (anonymous) /Keywords () /ModDate (D:20260809044127+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (unspecified) /Title (untitled) /Trapped /False
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057Abhishek4\055ui\057SMARTIQ\055FULL\055STACK\055PROJECT)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 119.0551 446.4567 144.5669 461.1969 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 7 0 obj
 <<
-/Count 1 /Kids [ 4 0 R ] /Type /Pages
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057Abhishek4\055ui\057build\055ai)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 85.03937 397.1339 110.5512 411.874 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 8 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 335
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057Abhishek4\055ui\057amazon\055clone)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 85.03937 347.811 110.5512 362.5512 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057abhishek\055portfolio\055eight\055fawn\056vercel\056app)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 85.03937 269.4921 253.3362 280.1921 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/Length 9216
 >>
 stream
-GarW4]i)ck'Lqs^`E2=?C`j$-V68Nca_YNUrX;CA_^=g<gIl!2VJtr30Gj0Qc9MtsU<?a5^n\j<Kn;)$(,R<dj;X\%7,e=pc7n_d,I5KX<b-mF)2Ca3&Y]j+%GF0;&g!-f(%]n.aM>_f9G53D@d)8u4H#>7.m`m=HRLt(l'a9<:;-5mOIqViGp\?$g7[Dp/t/;ds.O664e4;E<Ag='FlW#;=<;RN(5AeF\iNmLA>i^;p"86c-BD23AT0\oS\l4;Qfs+,m>#r]SK.7p/%?8OK)^\K/d+4"[a&OkAUL9<)_,JjV<nFr\:/I"CRhCl1s0MPS_Y5-q>i,!D>O~>endstream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F2 20 Tf 24 TL ET
+0 0 0 rg
+BT 1 0 0 1 202.9078 745.5118 Tm (ABHISHEK KUMAR) Tj T* ET
+BT /F3 9.2 Tf 11.04 TL ET
+0 0 0 rg
+BT 1 0 0 1 177.0396 731.3386 Tm (Bhagalpur, Bihar  |  +91 7970531325  |  abhiclg2580@gmail.com) Tj T* ET
+BT /F3 9.2 Tf 11.04 TL ET
+0 0 .8 rg
+BT 1 0 0 1 127.5482 718.5827 Tm (GitHub: github.com/Abhishek4-ui  |  LinkedIn: linkedin.com/in/abhishek-kumar-3775b52a4) Tj T* ET
+BT /F2 11.5 Tf 13.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 53.85827 700.1575 Tm (ABOUT) Tj T* ET
+.4 .4 .4 RG
+.45 w
+n 53.85827 695.9055 m 541.4173 695.9055 l S
+BT /F3 8.8 Tf 10.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 53.85827 681.7323 Tm (Passionate Full Stack Developer and B.Tech Computer Science & Engineering student specializing in AI & ML. Interested in building responsive web) Tj T* ET
+BT /F3 8.8 Tf 10.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 53.85827 669.8268 Tm (applications, AI-powered products and clean user-focused digital experiences.) Tj T* ET
+BT /F2 11.5 Tf 13.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 53.85827 652.252 Tm (EDUCATION) Tj T* ET
+.4 .4 .4 RG
+.45 w
+n 53.85827 648 m 541.4173 648 l S
+BT /F2 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 53.85827 633.8268 Tm (Government Engineering College Khagaria) Tj T* ET
+BT /F2 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 405.3543 633.8268 Tm (2023 \226 2027) Tj T* ET
+BT /F4 9 Tf 10.8 TL ET
+.333333 .333333 .333333 rg
+BT 1 0 0 1 53.85827 615.4016 Tm (B.Tech in Computer Science & Engineering \(AI & ML\)) Tj T* ET
+BT /F4 9 Tf 10.8 TL ET
+.333333 .333333 .333333 rg
+BT 1 0 0 1 405.3543 615.4016 Tm (CGPA: 7.49) Tj T* ET
+BT /F2 11.5 Tf 13.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 53.85827 596.9764 Tm (SKILLS) Tj T* ET
+.4 .4 .4 RG
+.45 w
+n 53.85827 592.7244 m 541.4173 592.7244 l S
+BT /F3 8.25 Tf 9.9 TL ET
+0 0 0 rg
+BT 1 0 0 1 68.0315 579.9685 Tm (\227) Tj T* ET
+BT /F3 8.25 Tf 9.9 TL ET
+0 0 0 rg
+BT 1 0 0 1 85.03937 579.9685 Tm (Languages: C, C++, Python, JavaScript, HTML) Tj T* ET
+BT /F3 8.25 Tf 9.9 TL ET
+0 0 0 rg
+BT 1 0 0 1 68.0315 567.4961 Tm (\227) Tj T* ET
+BT /F3 8.25 Tf 9.9 TL ET
+0 0 0 rg
+BT 1 0 0 1 85.03937 567.4961 Tm (Frameworks: React.js, Node.js, Express.js, Tailwind CSS) Tj T* ET
+BT /F3 8.25 Tf 9.9 TL ET
+0 0 0 rg
+BT 1 0 0 1 68.0315 555.0236 Tm (\227) Tj T* ET
+BT /F3 8.25 Tf 9.9 TL ET
+0 0 0 rg
+BT 1 0 0 1 85.03937 555.0236 Tm (Tools: GitHub, Postman, Vercel) Tj T* ET
+BT /F3 8.25 Tf 9.9 TL ET
+0 0 0 rg
+BT 1 0 0 1 68.0315 542.5512 Tm (\227) Tj T* ET
+BT /F3 8.25 Tf 9.9 TL ET
+0 0 0 rg
+BT 1 0 0 1 85.03937 542.5512 Tm (Databases: MySQL, MongoDB) Tj T* ET
+BT /F3 8.25 Tf 9.9 TL ET
+0 0 0 rg
+BT 1 0 0 1 68.0315 530.0787 Tm (\227) Tj T* ET
+BT /F3 8.25 Tf 9.9 TL ET
+0 0 0 rg
+BT 1 0 0 1 85.03937 530.0787 Tm (Core: Data Structures & Algorithms, DBMS, Operating Systems, Computer Networks, AI/ML) Tj T* ET
+BT /F2 11.5 Tf 13.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 53.85827 513.0709 Tm (PROJECTS) Tj T* ET
+.4 .4 .4 RG
+.45 w
+n 53.85827 508.8189 m 541.4173 508.8189 l S
+BT /F2 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 53.85827 496.063 Tm (SMARTIQ) Tj T* ET
+BT /F4 8.15 Tf 9.78 TL ET
+0 0 0 rg
+BT 1 0 0 1 104.8819 496.063 Tm (AI-Powered Learning & Quiz Platform | React.js, Vite, Node.js, Express.js, MongoDB, Groq AI, JWT, Vercel) Tj T* ET
+BT /F3 8.15 Tf 9.78 TL ET
+0 0 0 rg
+BT 1 0 0 1 68.0315 484.7244 Tm (\227) Tj T* ET
+BT /F3 8.15 Tf 9.78 TL ET
+0 0 0 rg
+BT 1 0 0 1 85.03937 484.7244 Tm (Built a full-stack AI-powered learning platform featuring quizzes, mock tests, daily questions, AI assistance and performance tracking.) Tj T* ET
+BT /F3 8.15 Tf 9.78 TL ET
+0 0 0 rg
+BT 1 0 0 1 68.0315 473.3858 Tm (\227) Tj T* ET
+BT /F3 8.15 Tf 9.78 TL ET
+0 0 0 rg
+BT 1 0 0 1 85.03937 473.3858 Tm (Implemented REST API integration, JWT authentication, MongoDB data management and Groq AI-powered learning features.) Tj T* ET
+BT /F3 8.15 Tf 9.78 TL ET
+0 0 0 rg
+BT 1 0 0 1 68.0315 462.0472 Tm (\227) Tj T* ET
+BT /F3 8.15 Tf 9.78 TL ET
+0 0 0 rg
+BT 1 0 0 1 85.03937 462.0472 Tm (Deployed frontend and backend on Vercel with production API integration.) Tj T* ET
+.066667 .066667 .066667 rg
+n
+89.29134 446.4567 m
+106.2992 446.4567 l
+108.6497 446.4567 110.5512 448.3582 110.5512 450.7087 c
+110.5512 456.9449 l
+110.5512 459.2954 108.6497 461.1969 106.2992 461.1969 c
+89.29134 461.1969 l
+86.94085 461.1969 85.03937 459.2954 85.03937 456.9449 c
+85.03937 450.7087 l
+85.03937 448.3582 86.94085 446.4567 89.29134 446.4567 c
+h
+f*
+BT /F2 7.2 Tf 8.64 TL ET
+1 1 1 rg
+BT 1 0 0 1 90.99213 451.2756 Tm (LIVE) Tj T* ET
+.141176 .160784 .184314 rg
+n
+123.3071 446.4567 m
+140.315 446.4567 l
+142.6654 446.4567 144.5669 448.3582 144.5669 450.7087 c
+144.5669 456.9449 l
+144.5669 459.2954 142.6654 461.1969 140.315 461.1969 c
+123.3071 461.1969 l
+120.9566 461.1969 119.0551 459.2954 119.0551 456.9449 c
+119.0551 450.7087 l
+119.0551 448.3582 120.9566 446.4567 123.3071 446.4567 c
+h
+f*
+BT /F2 7.2 Tf 8.64 TL ET
+1 1 1 rg
+BT 1 0 0 1 125.0079 451.2756 Tm (GH) Tj T* ET
+BT /F4 7.7 Tf 9.24 TL ET
+.333333 .333333 .333333 rg
+BT 1 0 0 1 151.6535 450.7087 Tm (Tap LIVE for demo  \177  Tap GH for source code) Tj T* ET
+BT /F2 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 53.85827 435.4016 Tm (Build AI) Tj T* ET
+BT /F4 8.2 Tf 9.84 TL ET
+0 0 0 rg
+BT 1 0 0 1 116.2205 435.4016 Tm (HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB) Tj T* ET
+BT /F3 8.2 Tf 9.84 TL ET
+0 0 0 rg
+BT 1 0 0 1 68.0315 424.063 Tm (\227) Tj T* ET
+BT /F3 8.2 Tf 9.84 TL ET
+0 0 0 rg
+BT 1 0 0 1 85.03937 424.063 Tm (Built a modern AI-powered web application with a clean, responsive and user-friendly interface.) Tj T* ET
+BT /F3 8.2 Tf 9.84 TL ET
+0 0 0 rg
+BT 1 0 0 1 68.0315 412.7244 Tm (\227) Tj T* ET
+BT /F3 8.2 Tf 9.84 TL ET
+0 0 0 rg
+BT 1 0 0 1 85.03937 412.7244 Tm (Implemented interactive frontend features and full-stack connectivity with Node.js, Express.js and MongoDB.) Tj T* ET
+.141176 .160784 .184314 rg
+n
+89.29134 397.1339 m
+106.2992 397.1339 l
+108.6497 397.1339 110.5512 399.0353 110.5512 401.3858 c
+110.5512 407.622 l
+110.5512 409.9725 108.6497 411.874 106.2992 411.874 c
+89.29134 411.874 l
+86.94085 411.874 85.03937 409.9725 85.03937 407.622 c
+85.03937 401.3858 l
+85.03937 399.0353 86.94085 397.1339 89.29134 397.1339 c
+h
+f*
+BT /F2 7.2 Tf 8.64 TL ET
+1 1 1 rg
+BT 1 0 0 1 90.99213 401.9528 Tm (GH) Tj T* ET
+BT /F4 7.7 Tf 9.24 TL ET
+.333333 .333333 .333333 rg
+BT 1 0 0 1 117.6378 401.3858 Tm (GitHub source) Tj T* ET
+BT /F2 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 53.85827 386.0787 Tm (Amazon Clone) Tj T* ET
+BT /F4 8.2 Tf 9.84 TL ET
+0 0 0 rg
+BT 1 0 0 1 136.063 386.0787 Tm (HTML, CSS, JavaScript) Tj T* ET
+BT /F3 8.2 Tf 9.84 TL ET
+0 0 0 rg
+BT 1 0 0 1 68.0315 374.7402 Tm (\227) Tj T* ET
+BT /F3 8.2 Tf 9.84 TL ET
+0 0 0 rg
+BT 1 0 0 1 85.03937 374.7402 Tm (Developed a responsive Amazon-inspired e-commerce interface using HTML, CSS and JavaScript.) Tj T* ET
+BT /F3 8.2 Tf 9.84 TL ET
+0 0 0 rg
+BT 1 0 0 1 68.0315 363.4016 Tm (\227) Tj T* ET
+BT /F3 8.2 Tf 9.84 TL ET
+0 0 0 rg
+BT 1 0 0 1 85.03937 363.4016 Tm (Created responsive navigation, product sections and interactive UI components.) Tj T* ET
+.141176 .160784 .184314 rg
+n
+89.29134 347.811 m
+106.2992 347.811 l
+108.6497 347.811 110.5512 349.7125 110.5512 352.063 c
+110.5512 358.2992 l
+110.5512 360.6497 108.6497 362.5512 106.2992 362.5512 c
+89.29134 362.5512 l
+86.94085 362.5512 85.03937 360.6497 85.03937 358.2992 c
+85.03937 352.063 l
+85.03937 349.7125 86.94085 347.811 89.29134 347.811 c
+h
+f*
+BT /F2 7.2 Tf 8.64 TL ET
+1 1 1 rg
+BT 1 0 0 1 90.99213 352.6299 Tm (GH) Tj T* ET
+BT /F4 7.7 Tf 9.24 TL ET
+.333333 .333333 .333333 rg
+BT 1 0 0 1 117.6378 352.063 Tm (GitHub source) Tj T* ET
+BT /F2 11.5 Tf 13.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 53.85827 334.4882 Tm (CERTIFICATIONS) Tj T* ET
+.4 .4 .4 RG
+.45 w
+n 53.85827 330.2362 m 541.4173 330.2362 l S
+BT /F3 8.2 Tf 9.84 TL ET
+0 0 0 rg
+BT 1 0 0 1 68.0315 317.4803 Tm (\227) Tj T* ET
+BT /F3 8.2 Tf 9.84 TL ET
+0 0 0 rg
+BT 1 0 0 1 85.03937 317.4803 Tm (NPTEL \227 Introduction to Internet of Things \227 65% \(Jan\226Apr 2026\), IIT Kharagpur) Tj T* ET
+BT /F3 8.2 Tf 9.84 TL ET
+0 0 0 rg
+BT 1 0 0 1 68.0315 305.0079 Tm (\227) Tj T* ET
+BT /F3 8.2 Tf 9.84 TL ET
+0 0 0 rg
+BT 1 0 0 1 85.03937 305.0079 Tm (NPTEL \227 Operating System Fundamentals \227 57% \(Jul\226Oct 2025\), IIT Kharagpur) Tj T* ET
+BT /F2 11.5 Tf 13.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 53.85827 288 Tm (ADDITIONAL) Tj T* ET
+.4 .4 .4 RG
+.45 w
+n 53.85827 283.748 m 541.4173 283.748 l S
+BT /F3 8.2 Tf 9.84 TL ET
+0 0 0 rg
+BT 1 0 0 1 68.0315 270.9921 Tm (\227) Tj T* ET
+BT /F3 8.2 Tf 9.84 TL ET
+0 0 .8 rg
+BT 1 0 0 1 85.03937 270.9921 Tm (Portfolio: abhishek-portfolio-eight-fawn.vercel.app) Tj T* ET
+BT /F3 8.2 Tf 9.84 TL ET
+0 0 0 rg
+BT 1 0 0 1 68.0315 258.5197 Tm (\227) Tj T* ET
+BT /F3 8.2 Tf 9.84 TL ET
+0 0 0 rg
+BT 1 0 0 1 85.03937 258.5197 Tm (Open to internships and entry-level opportunities in Full Stack Development and AI/ML.) Tj T* ET
+BT /F3 8.2 Tf 9.84 TL ET
+0 0 0 rg
+BT 1 0 0 1 68.0315 246.0472 Tm (\227) Tj T* ET
+BT /F3 8.2 Tf 9.84 TL ET
+0 0 0 rg
+BT 1 0 0 1 85.03937 246.0472 Tm (Strong interest in problem solving, web development and continuous learning.) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+45 35 505.2756 22 re
+f*
+0.08 0.08 0.08 rg
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 48 43 Tm
+(\227 Portfolio\072 abhishek\055portfolio\055phi\055snowy\056vercel\056app) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+11 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+13 0 obj
+<<
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+14 0 obj
+<<
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+15 0 obj
+<<
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+16 0 obj
+<<
+/BaseFont /Times-Italic
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 9
+0 17
 0000000000 65535 f 
-0000000061 00000 n 
-0000000102 00000 n 
-0000000209 00000 n 
-0000000321 00000 n 
-0000000524 00000 n 
-0000000592 00000 n 
-0000000853 00000 n 
-0000000912 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000474 00000 n 
+0000000703 00000 n 
+0000000943 00000 n 
+0000001158 00000 n 
+0000001377 00000 n 
+0000001601 00000 n 
+0000010870 00000 n 
+0000010978 00000 n 
+0000011086 00000 n 
+0000011195 00000 n 
+0000011305 00000 n 
+0000011415 00000 n 
 trailer
 <<
-/ID 
-[<bcf5a9261f03af3c2f2d3a7ab13b3e23><bcf5a9261f03af3c2f2d3a7ab13b3e23>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 6 0 R
-/Root 5 0 R
-/Size 9
+/Size 17
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-1337
+11526
 %%EOF
