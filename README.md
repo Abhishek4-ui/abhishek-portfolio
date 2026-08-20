@@ -68,5 +68,4 @@ Assets:
 - Responsive navigation and mobile layout
 
 
-### SMARTIQ Live Demo
-https://smartiq-full-stack-project-kvh9.vercel.app
+### live portfolio
